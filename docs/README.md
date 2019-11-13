@@ -8,7 +8,7 @@ AirTunes Music Player Pro is an advanced music player with the ability to play m
 **Current release: 3.0.2112**
 
 **Available in the [Google Play Store](
-https://play.google.com/store/apps/details?id=com.whitestarlogic.mytunespro3)**
+https://play.google.com/store/apps/details?id=com.whitestar.mytunespro3)**
 
 ### Features
 

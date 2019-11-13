@@ -1,5 +1,5 @@
-## Using MyTunes Pro
+## Using AirTunes Pro
 
-For help using MyTunes Pro, refer to the MyTunes Pro wiki pages:
+For help using AirTunes Pro, refer to the AirTunes Pro wiki pages:
 
-[MyTunes Pro Wiki](https://github.com/mrichards957/MyTunesPro3/wiki)
+[AirTunes Pro Wiki](https://github.com/mfrichards/AirTunesPro/wiki)
