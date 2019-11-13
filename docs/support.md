@@ -1,12 +1,12 @@
 ## Support
 
-For help using MyTunes Pro, refer to the Wiki pages:
+For help using AirTunes Pro, refer to the Wiki pages:
 
-[MyTunes Pro Wiki](https://github.com/mrichards957/ArgusTVRemote/wiki)
+[AirTunes Pro Wiki](https://github.com/mrichards957/AirTunesPro/wiki)
 
 To report issues, please open an issue via the Github project (all issues will be tracked via the issue tracker):
 
-[Issue Tracking](https://github.com/mrichards957/MyTunesPro3/issues)
+[Issue Tracking](https://github.com/mrichards957/AirTunesPro/issues)
 
 For other inquiries, email me at:
 

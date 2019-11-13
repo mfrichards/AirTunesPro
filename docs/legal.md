@@ -1,6 +1,6 @@
 ## Legal Disclaimers
 
-MyTunes Pro is free software. It is provided \'As Is\' without any express or implied warranty of any kind. For more information, see:
+AirTunes Pro is free software. It is provided \'As Is\' without any express or implied warranty of any kind. For more information, see:
 
 [End User License Agreement](EULA.html)
 
