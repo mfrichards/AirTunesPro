@@ -8,7 +8,7 @@ AirTunes Music Player Pro is an advanced music player with the ability to play m
 **Current release: 3.0.2112**
 
 **Available in the [Google Play Store](
-https://play.google.com/store/apps/details?id=com.whitestarlogic.mytunespro3)**
+https://play.google.com/store/apps/details?id=com.whitestar.mytunespro3)**
 
 ### Features
 
@@ -30,17 +30,17 @@ The original MyTunes Music Player was offered in a "Lite" version (with limited 
 
 **For more information, please refer to the GitHub web pages:**
 
-[AirTunes Pro Web Pages](https://mrichards957.github.io/AirTunesPro/)
+[AirTunes Pro Web Pages](https://mfrichards.github.io/AirTunesPro/)
 
 ## Support
 
 For help using AirTunes Pro, refer to the Wiki pages:
 
-[AirTunes Pro Wiki](https://github.com/mrichards957/AirTunesPro/wiki)
+[AirTunes Pro Wiki](https://github.com/mfrichards/AirTunesPro/wiki)
 
 To report issues, please open an issue via the Github project (all issues will be tracked via the issue tracker):
 
-[Issue Tracking](https://github.com/mrichards957/AirTunesPro/issues)
+[Issue Tracking](https://github.com/mfrichards/AirTunesPro/issues)
 
 For other inquiries, email me at:
 
